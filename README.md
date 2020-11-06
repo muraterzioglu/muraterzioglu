@@ -11,7 +11,7 @@ Working & Learning with;
     "Firestore"
   ],
   "languages": [
-    "TypeScript,
+    "TypeScript",
     "JavaScript",
     "Python"
   ],
