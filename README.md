@@ -6,13 +6,13 @@ Working & Learning with;
 ```json
 {
   "databases": [
-    "MongoDB",
-    "PostgreSQL",
-    "Firestore"
+    "MongoDB", "PostgreSQL",
+    "Firestore", "MsSQL"
   ],
   "languages": [
     "TypeScript",
     "JavaScript",
+    "Go",
     "Python"
   ],
   "tools-n-ssr": [
