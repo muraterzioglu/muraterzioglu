@@ -1,6 +1,6 @@
 {
   "hosting": {
-	"site":"muraterzioglu-dev"
+	"site"	: "muraterzioglu-dev",
     "public": "public",
     "ignore": [
       "firebase.json",
