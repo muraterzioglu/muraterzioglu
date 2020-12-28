@@ -7,5 +7,5 @@ Do you want the see changes that I made? Check out forked repos onmy profile and
 Interesting with;  
 IoT, Agriculture & Industry 4.0, AR/VR and little bit ML
 
-For the tech stack that I'm workin check out my  
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/muraterzioglu/dev)
+For the tech stack that I'm workin check out my stacks;  
+[![StackShare](http://img.shields.io/badge/frontend-stack-0690fa.svg?style=flat)](https://stackshare.io/muraterzioglu/frontend)   [![StackShare](http://img.shields.io/badge/backend-stack-0690fa.svg?style=flat)](https://stackshare.io/muraterzioglu/backend)   [![StackShare](http://img.shields.io/badge/mobile-stack-0690fa.svg?style=flat)](https://stackshare.io/muraterzioglu/mobile)
