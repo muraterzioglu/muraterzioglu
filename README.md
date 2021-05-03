@@ -1,8 +1,8 @@
 ### Hi there, Murat here 👋
 
-Hi, there! I like to discover and learn new things. I have a participatory personality, I started my web developer journey when I was 13 and still, I'm. My current interest is on the web, mobile and cloud technologies! I can keep up with the team, deploy the necessary tasks, and manage a team that is in my field. I also was working as a programing mentor at Team Cymurghs and teaching students about web and cloud technologies. Now I'm FullstackDeveloper@VisporApp (University Startup) to improve myself about new techs!
+Hello! My name is Murat, Jr Software Developer from Turkey! I'm not too successful while describing myself with words; I would like to show myself with my projects and attempts; I'm currently a student in Computer Programming but I don't think school is the best way to learn something so I always try to do something even it is meaningless or useless (generally on my computer).
 
-Do you want the see changes that I made? Check out forked repos onmy profile and go to branch named as `muratestkit` or `muratdevkit`
+I always try to do my project with the latest technologies and trends like serverless systems and cloud techs. Now I'm 18 years old and I want the improve myself with business-level experience while doing that I also want the share my knowledge probably it's noting for senior developers but still sharing something always good for me.
 
 Interesting with;  
 IoT, Agriculture & Industry 4.0, AR/VR and little bit ML
