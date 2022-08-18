@@ -14,10 +14,10 @@ Get In Touch!
 - Inssta: [@muraterzioglu](https://instagram.com/muraterzioglu)
 
 -----------
-|My Contents    | Link |
-|---------------|------|
-|[🇬🇧] Blog      | [dev.to/muraterzioglu](https://dev.to/muraterzioglu)      |
-|[🇹🇷] Instagram | [instagram.com/murat.codes](https://instagram.com/murat.codes)      |
+| My Contents      | Link                                                           |
+|------------------|----------------------------------------------------------------|
+| [🇬🇧] Blog      | [dev.to/muraterzioglu](https://dev.to/muraterzioglu)           |
+| [🇹🇷] Instagram | [instagram.com/murat.codes](https://instagram.com/murat.codes) |
 
 
 So, there you have it... enjoy!
