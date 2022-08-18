@@ -1,7 +1,7 @@
 +++
-title = "About"
+title = "Resume"
 date = "2022-01-01"
 author = "murat"
 +++
 
-# About Page.
+# Resume Page.

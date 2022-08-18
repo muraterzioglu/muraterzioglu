@@ -1,7 +1,7 @@
 +++
-title = "About"
+title = "Contact"
 date = "2022-01-01"
 author = "murat"
 +++
 
-# About Page.
+# Contact Page.

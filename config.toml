@@ -13,7 +13,7 @@ paginate = 5
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -65,7 +65,7 @@ paginate = 5
     contentDir = 'content/english'
     languageName = "English"
     title = "murat"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "I do code. a lot."
     owner = ""
     keywords = ""
     copyright = ""
@@ -87,9 +87,13 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Turkish"
@@ -108,7 +112,7 @@ paginate = 5
 
     [languages.tr.params.logo]
       logoText = "murat"
-      logoHomeLink = "/"
+      logoHomeLink = "/tr"
 
     [languages.tr.menu]
       [[languages.tr.menu.main]]
